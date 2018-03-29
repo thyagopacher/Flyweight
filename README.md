@@ -1,0 +1,2 @@
+# Flyweight
+Designer Pattern Flyweight
